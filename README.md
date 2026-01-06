@@ -123,14 +123,14 @@ This dashboard provides insights into:
 ### 💰 Price Analysis Page
 ![Price Page](Price%20Page.png)
 
-### ⭐ Rating Analysis Page
-![Rating Page](Rating%20Page.png)
+### 📅 Date/Trend Analysis Page
+![Date Page](Date%20Page.png)
 
 ### 🗺️ Location Analysis Page
 ![Location Page](Location%20Page.png)
 
-### 📅 Date/Trend Analysis Page
-![Date Page](Date%20Page.png)
+### ⭐ Rating Analysis Page
+![Rating Page](Rating%20Page.png)
 
 ---
 
