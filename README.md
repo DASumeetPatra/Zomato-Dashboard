@@ -77,7 +77,7 @@ The dataset contains the following fields:
 
 ---
 
-## 7. Solution / Conclusion
+## 6. Solution / Conclusion
 
 By aligning data-driven insights with strategic actions:
 
@@ -87,7 +87,7 @@ By aligning data-driven insights with strategic actions:
 
 ---
 
-## 8. Key Dashboard Features
+## 7. Key Dashboard Features
 
 This dashboard provides insights into:
 
@@ -103,7 +103,7 @@ This dashboard provides insights into:
 
 ---
 
-## 9. Screenshots / Dashboard Preview
+## 8. Screenshots / Dashboard Preview
 
 ### 📌 Overview Page
 ![Overview Page](Overview%20Page.png)
@@ -122,7 +122,7 @@ This dashboard provides insights into:
 
 ---
 
-## 10. Team Members
+## 9. Team Members
 
 This project was created collaboratively by:
 
@@ -135,7 +135,7 @@ This project was created collaboratively by:
 
 ---
 
-## 11. Learning Outcomes
+## 10. Learning Outcomes
 
 From this project, we learned:
 
@@ -147,7 +147,7 @@ From this project, we learned:
 
 ---
 
-## 12. How to View the Dashboard
+## 11. How to View the Dashboard
 
 You can:
 
