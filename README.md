@@ -51,41 +51,29 @@ The dataset contains the following fields:
 
 ---
 
-## 5. Business Problem
+## 5. Business Problem and Step Taken to Solve the Problem
 
-The major business problems identified were:
-
-- **Price range may not reflect customer satisfaction**  
-  Customers may value food quality and service more than price; overpriced menus lower perceived value  
-
-- **Untracked customer behavior**  
-  Restaurants lack insights into behavioral differences between **weekdays vs weekends**
-
-- **Hidden high-quality restaurants**  
-  Some restaurants have **high ratings but low votes**, reducing visibility and reach
-
-- **Lack of online/table booking**  
-  Many restaurants do not offer bookings, decreasing customer convenience and engagement  
+### 1️⃣ Uneven Restaurant Distribution Across Countries & Cities
+**Problem:** Restaurants are highly concentrated in a few major countries and cities, while many regions remain under-served.  
+**Solution:** Identify high-demand but low-supply regions and focus Zomato’s expansion, restaurant onboarding, and regional marketing in those areas.
 
 ---
 
-## 6. Steps Taken to Solve the Problems
+### 2️⃣ Lack of Online Delivery and Table Booking Options
+**Problem:** Many restaurants do not provide online delivery or table booking, reducing customer convenience and engagement.  
+**Solution:** Encourage partners to enable these features through incentives and highlight such restaurants in the app after activation.
 
-The following actions were taken:
+---
 
-- **Identified hidden restaurants**  
-  High-rated but low-voted restaurants were detected to improve visibility through targeted campaigns  
+### 3️⃣ Price Range Does Not Always Match Customer Satisfaction
+**Problem:** High-priced restaurants do not always have higher ratings or votes; customers value affordability and quality over price.  
+**Solution:** Promote value-based pricing and run campaigns like **“Luxury Taste, Local Price”** to boost affordable high-rated restaurants.
 
-- **Encouraged online/table booking enablement**  
-  Performance was compared before and after feature activation  
+---
 
-- **Marketing campaign created**  
-  Example theme:  
-  **“Luxury Taste, Local Price”**  
-  Promoting affordable, highly-rated restaurants to boost engagement and loyalty  
-
-- **Weekday vs Weekend analysis**  
-  Compared cuisine preferences and customer behavior trends to help maintain platform quality  
+### 4️⃣ High-Rated Restaurants With Low Votes Remain Hidden
+**Problem:** Some restaurants have high ratings but very few votes, resulting in low visibility on the platform.  
+**Solution:** Identify these using analytics and increase visibility through featured sections, recommendations, and targeted promotions.
 
 ---
 
