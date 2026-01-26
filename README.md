@@ -1,4 +1,4 @@
-# 🍽️ Zomato Restaurant Data Analytics Dashboard
+# Zomato Restaurant Data Analytics Dashboard
 
 ## 1. Project Title / Headline
 
@@ -6,7 +6,7 @@
 
 An interactive data analytics dashboard designed to analyze Zomato restaurants across different countries — focusing on restaurant availability, cuisines, ratings, votes, price ranges, and booking options.
 
----
+
 
 ## 2. Short Description / Purpose
 
@@ -19,19 +19,19 @@ This dashboard supports:
 - food delivery platforms  
 - data-driven decision makers  
 
----
+
 
 ## 3. Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
-- 📊 Power BI — dashboard creation and visualization  
-- 🧹 Power Query — data cleaning and transformation  
-- 🧮 DAX — calculated measures and KPIs  
-- 🧾 Dataset — Zomato restaurant records (Excel/CSV)  
-- 🖼 PNG images — dashboard screenshots  
+-  Power BI — dashboard creation and visualization  
+-  Power Query — data cleaning and transformation  
+-  DAX — calculated measures and KPIs  
+-  Dataset — Zomato restaurant records (Excel/CSV)  
+-  PNG images — dashboard screenshots  
 
----
+
 
 ## 4. Data Source
 
@@ -49,33 +49,33 @@ The dataset contains the following fields:
 - Online Delivery Availability  
 - Table Booking Availability  
 
----
+
 
 ## 5. Business Problem and Step Taken to Solve the Problem
 
-### 1️⃣ Uneven Restaurant Distribution Across Countries & Cities
+### A. Uneven Restaurant Distribution Across Countries & Cities
 **Problem:** Restaurants are highly concentrated in a few major countries and cities, while many regions remain under-served.  
 **Solution:** Identify high-demand but low-supply regions and focus Zomato’s expansion, restaurant onboarding, and regional marketing in those areas.
 
----
 
-### 2️⃣ Lack of Online Delivery and Table Booking Options
+
+### B. Lack of Online Delivery and Table Booking Options
 **Problem:** Many restaurants do not provide online delivery or table booking, reducing customer convenience and engagement.  
 **Solution:** Encourage partners to enable these features through incentives and highlight such restaurants in the app after activation.
 
----
 
-### 3️⃣ Price Range Does Not Always Match Customer Satisfaction
+
+### C. Price Range Does Not Always Match Customer Satisfaction
 **Problem:** High-priced restaurants do not always have higher ratings or votes; customers value affordability and quality over price.  
 **Solution:** Promote value-based pricing and run campaigns like **“Luxury Taste, Local Price”** to boost affordable high-rated restaurants.
 
----
 
-### 4️⃣ High-Rated Restaurants With Low Votes Remain Hidden
+
+### D. High-Rated Restaurants With Low Votes Remain Hidden
 **Problem:** Some restaurants have high ratings but very few votes, resulting in low visibility on the platform.  
 **Solution:** Identify these using analytics and increase visibility through featured sections, recommendations, and targeted promotions.
 
----
+
 
 ## 6. Solution / Conclusion
 
@@ -85,7 +85,7 @@ By aligning data-driven insights with strategic actions:
 - partner restaurant profitability can increase  
 - Zomato can make smarter value-focused decisions  
 
----
+
 
 ## 7. Key Dashboard Features
 
@@ -101,26 +101,26 @@ This dashboard provides insights into:
 - table booking availability  
 - restaurants opened per **year and quarter**  
 
----
+
 
 ## 8. Screenshots / Dashboard Preview
 
-### 📌 Overview Page
+### Overview Page
 ![Overview Page](Overview%20Page.png)
 
-### 💰 Price Analysis Page
+### Price Analysis Page
 ![Price Page](Price%20Page.png)
 
-### 📅 Date/Trend Analysis Page
+### Date/Trend Analysis Page
 ![Date Page](Date%20Page.png)
 
-### 🗺️ Location Analysis Page
+### Location Analysis Page
 ![Location Page](Location%20Page.png)
 
-### ⭐ Rating Analysis Page
+### Rating Analysis Page
 ![Rating Page](Rating%20Page.png)
 
----
+
 
 ## 9. Team Members
 
@@ -133,7 +133,7 @@ This project was created collaboratively by:
 - Nupur  
 - Rasika  
 
----
+
 
 ## 10. Learning Outcomes
 
@@ -145,7 +145,7 @@ From this project, we learned:
 - dashboard design and storytelling  
 - teamwork and collaboration  
 
----
+
 
 ## 11. How to View the Dashboard
 
@@ -154,6 +154,6 @@ You can:
 - download the `.pbix` file and open it in **Power BI Desktop**
 - view screenshots in the **Images** folder
 
----
+
 
 ⭐ Thank you for viewing the project! Suggestions and feedback are always welcome.
